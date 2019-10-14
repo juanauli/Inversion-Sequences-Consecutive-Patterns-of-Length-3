@@ -8,4 +8,4 @@ files are auxiliary functions, with the exception of test3.py and results.txt. T
 
 Built with: Python 2.7.12
 
-Author: Juan Auli
+Author: Juan S. Auli
